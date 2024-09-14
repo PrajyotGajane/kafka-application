@@ -1,0 +1,3 @@
+.idea
+kafka-producer-wikimedia/target
+kafka-consumer-database/target
